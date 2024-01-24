@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-01-24T13:39:17 IST" name="Default suite" finished-at="2024-01-24T13:40:24 IST" duration-ms="66855">
+    <groups>
+    </groups>
+    <test started-at="2024-01-24T13:39:17 IST" name="Default test" finished-at="2024-01-24T13:40:24 IST" duration-ms="66855">
+      <class name="TestCases.SuperAdminCreateProjectTestCase">
+        <test-method signature="CreateProject_TC_001(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:TestCases.SuperAdminCreateProjectTestCase@506ae4d4]" started-at="2024-01-24T13:39:21 IST" name="CreateProject_TC_001" data-provider="Recipient" finished-at="2024-01-24T13:40:24 IST" duration-ms="63514" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ProProject4]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[New Project]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[New NFT]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[C:\\Users\\CCL-Mangala\\Downloads\\NFTrace-Organisation-Details(country issue).png]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[MOLI]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[NFT]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Test12s]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[Select Event]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreateProject_TC_001 -->
+      </class> <!-- TestCases.SuperAdminCreateProjectTestCase -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
