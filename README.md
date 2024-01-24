@@ -2,5 +2,5 @@
 # NFTtrace-Main
 We have created 2 Branches mainly that is, Dev and Main for storing the automation script for NFTtrace.
 
-This is Dev branch, Evey employee should take pull from Dev adn write their script and push back to dev instead of main branch.
+This is the Dev branch, Every employee should pull from Dev, write their script, and push back to Dev instead of the main branch.
 
